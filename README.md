@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning anything that i don't know.
-- 📫 How to reach me: my gmail: cvkarthik123@gmail.com
+- 📫 How to reach me: cvkarthik123@gmail.com
 - ⚡ Fun fact: The word computer bug was inspired by a real bug. It was founded by Grace Hopper in 1947
 <!--
 **cvkarthik/cvkarthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
