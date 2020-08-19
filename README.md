@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning anything that i don't know.
-- 📫 How to reach me: <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBpRfgJpRFqPJXfgwgrQbxGqVtWQnxGDJLfrznwpWCFWJQJGlzKmWQqzCWWMBBntckVtcph">
-- ⚡ Fun fact: The word computer “bug” was inspired by a real bug. It was founded by Grace Hopper in 1947.
+- 📫 How to reach me: <li>cvkarthik123<a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBpRfgJpRFqPJXfgwgrQbxGqVtWQnxGDJLfrznwpWCFWJQJGlzKmWQqzCWWMBBntckVtcph"></li>
+- ⚡ Fun fact: The word computer bug was inspired by a real bug. It was founded by Grace Hopper in 1947.
 <!--
 **cvkarthik/cvkarthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
