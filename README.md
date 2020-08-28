@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ganeshkaricharla/count.svg" />
+  <img src="https://profile-counter.glitch.me/cvkarthik/count.svg" />
 </p>
 
 <p align="center">
