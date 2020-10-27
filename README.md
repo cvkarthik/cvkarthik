@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/ganeshkaricharla?tab=followers">
+  <a href="https://github.com/cvkarthik?tab=followers">
     <img src="https://img.shields.io/github/followers/cvkarthik?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/ganeshkaricharla">
+  <a href="http://twitter.com/Im_karthik9">
     <img src="https://img.shields.io/twitter/follow/Im_karthik9?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
