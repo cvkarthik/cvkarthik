@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning anything that i don't know.
+- 🌱 I’m currently learning everything which i am not aware of.
 - 📫 How to reach me: cvkarthik123@gmail.com
 - ⚡ Fun fact: The word computer bug was inspired by a real bug. It was founded by Grace Hopper in 1947
 <!--
