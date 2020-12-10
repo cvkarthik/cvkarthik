@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
 - 🌱 I’m currently learning everything which i am not aware of.
 - 📫 How to reach me: cvkarthik123@gmail.com
 - ⚡ Fun fact: The word computer bug was inspired by a real bug. It was founded by Grace Hopper in 1947
