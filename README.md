@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="250" />
-- 🌱 I’m currently learning everything which i am not aware of.;
+- 🌱 I’m currently learning everything which i am not aware of.<br/>
 - 📫 How to reach me: cvkarthik123@gmail.com;
 - ⚡ Fun fact: The word computer bug was inspired by a real bug. It was founded by Grace Hopper in 1947;
 
