@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - 🌱 I’m currently learning everything which i am not aware of.
 - 📫 How to reach me: cvkarthik123@gmail.com
 - ⚡ Fun fact: The word computer bug was inspired by a real bug. It was founded by Grace Hopper in 1947
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <!--
 **cvkarthik/cvkarthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
